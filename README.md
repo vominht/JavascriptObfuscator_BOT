@@ -1,5 +1,5 @@
 # JavascriptObfuscator_BOT
-Bot Telegram dùng để Obfuscate Javascript
+Bot Telegram dùng để Obfuscate Javascript <br>
 Dùng lệnh /jsobf để bắt đầu việc mã hoá file
 
 ## Setup
